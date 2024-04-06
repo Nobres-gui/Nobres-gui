@@ -7,15 +7,19 @@ Oi, eu sou o Guilherme Nobres
   </a>
 </div>
 <div style="display: inline_block"><br> 
-  <img  align= "center" alt="Nobres-JS" heigth="30" width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
-  <img  align= "center" alt="Nobres-HTML" heigth="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
-  <img  align= "center" alt="Nobres-CSS" heigth="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+  <img  align= "center" alt="JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />         
+  <img  align= "center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
+  <img  align= "center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+          
 </div>  
 
 ##
 
 <div>
 <a href="https://www.instagram.com/nobres_gui/" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
+<a href="mailto:guilherme.souza@sptech"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guilherme-nobres-85bab1302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
+
+##
 
