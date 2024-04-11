@@ -2,8 +2,8 @@ Bem vindo
 <!-- status -->
 <div>
   <a href="https://github.com/Nobres-gui">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Nobres-gui&theme=dracula" />
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nobres-gui&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Nobres-gui&theme=city_lights" />
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nobres-gui&layout=compact&langs_count=8&card_width=320&theme=city_lights" />
   </a>
 </div>
 <div style="display: inline_block"><br> 
